@@ -1,4 +1,4 @@
-This landing page was created with the Bootstrap framwork.
+This landing page was created with the Bootstrap framework.
 The page is a fully responsive landing page laid out with the grid system.
 It features the Bootstrap Utilitties.
 Some of the components included are a:
